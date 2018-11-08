@@ -1,1 +1,1 @@
-# graphql-example
+# Graphql Example
